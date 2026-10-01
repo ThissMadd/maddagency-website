@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+.claude/
+old-static-site/
+/0
+next-env.d.ts
